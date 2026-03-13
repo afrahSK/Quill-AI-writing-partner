@@ -1,4 +1,4 @@
-const StartFree = () => {
+const Startfree = () => {
   return (
     <section className="bg-[#080C14] px-12 py-32 relative overflow-hidden" id="startfree">
 
@@ -48,4 +48,4 @@ const StartFree = () => {
   );
 };
 
-export default StartFree;
+export default Startfree;
